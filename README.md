@@ -1,1 +1,2 @@
 # A-Power-BI-Analysis-on-African-Mobile-data
+You are a Data Consultant brought in by African Mobile, a mobile company that aggressively expanded across theentire continent of Africa beginning in 2013. Business hasbeen humming along for the past four years, and they would like you to conduct a profitability analysis of their business. This will involve looking at not only profitability,but also a dashboard with analysis as requested by Salesperson 
